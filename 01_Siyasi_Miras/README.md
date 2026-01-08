@@ -8,20 +8,25 @@ Rize kökenli devlet adamları, Türkiye'nin modernleşme ve siyasi dönüşüm 
 
 *   **Recep Tayyip Erdoğan:** Türkiye Cumhuriyeti'nin halk oyuyla seçilen ilk Cumhurbaşkanı. Rize'nin siyasi temsil gücünü en üst seviyeye taşımıştır.
 *   **Mesut Yılmaz:** Eski Başbakanlardan. 1990'lı yılların Türk siyasetinde dengeleri belirleyen en önemli aktörlerden biridir.
-*   **Ahmet Mesut Yılmaz:** Döneminin dış politika ve ekonomi yönetiminde stratejik kararlara imza atmıştır.
+*   **Köksal Toptan:** Eski TBMM Başkanı. Türk hukuk ve siyaset hayatının saygın isimlerinden biridir.
+*   **İsmail Kahraman:** Eski TBMM Başkanı. Milli Kültür ve siyaset alanında derin izler bırakmıştır.
 *   **Ekrem Orhon:** ""Denizi dolduran adam"" olarak bilinen efsanevi belediye başkanı. Rize'nin kentsel gelişim vizyonunun mimarıdır.
 
-##  İdari ve Siyasi Dönüşüm
+##  Siyasi Kronoloji (1920 - Günümüz)
 
-Rize'nin idari tarihi, Osmanlı'dan Cumhuriyet'e stratejik bir süreklilik arz eder:
+| Dönem | İsim | Görev | Önem |
+| :--- | :--- | :--- | :--- |
+| **1920-1923** | İpsiz Recep | Kuva-yi Milliye Milis Yarbay | Milli Mücadele'de deniz lojistiği kahramanı. |
+| **1991-1999** | Mesut Yılmaz | Başbakan | Koalisyon hükümetleri döneminin kilit aktörü. |
+| **2003-2014** | Recep Tayyip Erdoğan | Başbakan | Türkiye'nin ekonomik ve yapısal dönüşüm dönemi. |
+| **2014-Günümüz** | Recep Tayyip Erdoğan | Cumhurbaşkanı | Sistemsel değişim ve küresel liderlik vizyonu. |
 
-1.  **Sancak Beyliği Dönemi:** Yavuz Sultan Selim'in Trabzon Sancak Beyliği yaptığı yıllarda Rize, bölgenin güvenliği ve idaresi için kilit bir noktaydı.
-2.  **Milli Mücadele ve İpsiz Recep:** Rize halkı, Kuva-yi Milliye ruhuyla İstiklal Harbi'nde deniz yoluyla mühimmat taşımacılığında hayati rol oynamıştır.
-3.  **Cumhuriyet İlanı Sonrası:** 1924 yılında il statüsü alan Rize, o günden bugüne merkezi yönetimdeki etkisini artırmıştır.
+##  Analiz: Siyasi Karakter: Pragmatizm ve İrade
 
-##  Analiz: Niçin Rize?
-
-Sosyolojik açıdan Rize siyaseti, ""coğrafyanın karakteri şekillendirmesi"" prensibine dayanır. Sert ve mücadele gerektiren bir coğrafyada yetişen insanlar, bu mücadeleci ruhu siyaset sahnesine yansıtarak liderlik yeteneklerini geliştirmişlerdir.
+Rize siyasetinin başarısı tesadüf değildir. Bölge insanının ""Karadeniz inadı"" olarak tabir edilen iradesi, siyasette şu üç temel üzerine oturur:
+1.  **Hızlı Karar Alma:** Coğrafyanın değişken yapısı siyasette çeviklik sağlamıştır.
+2.  **Sadakat ve Ağ Yapısı:** Hemşerilik bağları, ulusal düzeyde güçlü bir güven ağı kurar.
+3.  **Hizmet Odaklılık:** Ekrem Orhon'dan bugüne gelişim ve yatırım odaklı siyasi üslup.
 
 ---
 *Bu içerik RIZE-PEAK projesi kapsamında sürekli güncellenmektedir.*

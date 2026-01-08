@@ -2,26 +2,27 @@
 
 Rize denildiğinde akla ilk gelen ve bölgenin ekonomik kaderini değiştiren en büyük devrim çay tarımıdır. Bu modül, bir ekosistemin nasıl inşa edildiğini ve ""yeşil altın""ın serüvenini anlatır.
 
-##  Bir Deha: Zihni Derin ve Vizyonu
+##  Çay Çeşitleri ve Üretim Vizyonu
 
-Rize'nin bugünkü çay mirası, büyük ziraatçı Zihni Derin'in azmi ve öngörüsüyle başlamıştır:
-- **1924 Çay Kanunu:** Bölgedeki işsizliği önlemek ve bataklıkları tarıma kazandırmak amacıyla çıkarılan devrim niteliğinde bir kanun.
-- **Batum Yolculuğu:** Zihni Derin'in Batum'dan getirdiği ilk çay fidanlarıyla Rize'nin toprak yapısının uyumunu kanıtlaması.
-- **Toplumsal Dönüşüm:** Çay, bölge insanını gurbetten kurtarıp toprağına bağlayan en büyük sosyal araç olmuştur.
+Rize toprakları, sadece klasik siyah çay değil, katma değeri yüksek farklı varyasyonlar için de bir laboratuvar haline gelmiştir:
 
-##  Çaykur ve Sanayileşme
+*   **Siyah Çay:** Rize'nin ana üretimi. Üzerine kar yağan tek çay olma özelliğiyle doğal haşere korumasına sahiptir (pestisit içermez).
+*   **Beyaz Çay (İmparatorların Çayı):** Çay bitkisinin tomurcuklarından elde edilen, en yüksek antioksidan değerine sahip nadide ürün.
+*   **Yeşil Çay:** Fermente edilmeden kurutulan, sağlık odaklı yeni nesil üretim.
 
-Çayın tarladan bardağa yolculuğu, devasa bir sanayi altyapısı gerektirir:
-*   **Çaykur:** Türkiye'nin en büyük kamu kuruluşlarından biri olarak çay tarımının garantörüdür.
-*   **Özel Sektör:** 1980'lerden itibaren gelişen özel sektör fabrikalarıyla Rize, bir endüstri merkezine dönüşmüştür.
-*   **İstatistik:** Türkiye, dünyanın en çok çay tüketen ülkesidir ve bu tüketimin %90'ından fazlası Rize topraklarından karşılanır.
+##  Rize Çay Kültürü ve Demleme Sanatı
 
-##  Flora ve Biyoçeşitlilik
+Rize'de çay sadece bir içecek değil, sosyal bir iletişim aracıdır:
+1.  **İnce Belli Bardak:** Çayın rengini (tavşan kanı) ve sıcaklığını koruyan geleneksel kap.
+2.  **Rize Demleme Yöntemi:** Üst demliğe kuru çay konulup alt demlikteki suyun buharıyla ısıtılması, ardından kaynar suyun yavaşça eklenip 15-20 dakika demlenmesi.
+3.  **Kıtlama:** Erzurum sınırına yakın bölgelerde görülen, şekerin ağızda tutularak çayın içildiği geleneksel yöntem.
 
-Rize ekosistemi sadece çaydan ibaret değildir:
-- **Ballı Yaylalar:** Anzer Balı gibi dünyanın en kaliteli ballarının üretildiği eşsiz bitki örtüsü.
-- **Yağmur Ormanları:** Türkiye'nin ılıman kuşak yağmur ormanlarına ev sahipliği yapan tek bölgesi.
-- **Gelecek:** Organik tarım ve sürdürülebilir ekosistem projeleriyle Rize'nin doğal mirası korunmaktadır.
+##  Biyoçeşitlilik ve Endemik Bitkiler
+
+Çay dışında Rize ekosistemi:
+- **Rize Orman Gülü (Rhododendron):** Bölgenin karakteristik çiçeği.
+- **Yalancı Portakal:** İklimin mikroklima özelliğini kanıtlayan egzotik türler.
+- **Anzer Flora:** 40-50 tanesi dünyada sadece Anzer yaylasında bulunan yüzlerce çiçek türü.
 
 ---
 *Bu içerik RIZE-PEAK projesi kapsamında sürekli güncellenmektedir.*
